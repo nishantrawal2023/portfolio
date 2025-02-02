@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce Shopping WebApp",
+    "imageSrc": "projects/project1.png",
+    "description": "An interactive shopping platform built to explore modern web technologies.",
+    "skills": ["React", "TailwindCSS"],
+    "demo": "https://forever-shoppinggg.netlify.app/",
+    "source": "https://github.com/nishantrawal2023/E-Commerce-Website"
+  },
+  {
+    "title": "Doctor Appointment Booking App",
+    "imageSrc": "projects/project2.png",
+    "description": "A interactive app to simplify doctor appointment scheduling.",
+    "skills": ["React", "TailwindCSS"],
+    "demo": "https://prescripto-web-app.netlify.app/",
+    "source": "https://github.com/nishantrawal2023/Prescripto"
+  },
+  {
+    "title": "Exercise-Adviser WebApp",
+    "imageSrc": "projects/project3.png",
+    "description": "A fitness app that helps users explore and access detailed workout insights.",
+    "skills": ["React", "Material-UI"],
+    "demo": "https://exercise-adviser.netlify.app/",
+    "source": "https://github.com/nishantrawal2023/Fitness-Web-Application/tree/main"
+  }
+]
